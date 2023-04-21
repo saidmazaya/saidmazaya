@@ -1,6 +1,6 @@
 # Hi there, I'm Said Muhammad Mazaya 👋
 
-I'm a student at Univerity of Sumatera Utara, majoring in Information Technology.
+I'm a student at University of Sumatera Utara, majoring in Information Technology.
 
 ### Skills
 <p align="left">
