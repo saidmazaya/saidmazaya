@@ -20,10 +20,9 @@ I'm a student at University of Sumatera Utara, majoring in Information Technolog
 
 ### My Stats
 ---
-<p align="left">
-<a href="https://github.com/saidmazaya">
-  <img height="208em" align="center" src="https://github-readme-stats.vercel.app/api?username=saidmazaya&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github"/>
- 
-  <img height="208em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmazaya&layout=donut&langs_count=10&theme=radical&size_weight=0.5&count_weight=0.5"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=saidmazaya&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github" />
 </a>
-</p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmazaya&layout=donut&langs_count=10&theme=radical&size_weight=0.5&count_weight=0.5" />
+</a>
