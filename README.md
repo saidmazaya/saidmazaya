@@ -22,7 +22,8 @@ I'm a student at University of Sumatera Utara, majoring in Information Technolog
 ---
 <p align="left">
 <a href="https://github.com/saidmazaya">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saidmazaya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saidmazaya&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=saidmazaya&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+ 
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmazaya&layout=donut&theme=radical&size_weight=0.5&count_weight=0.5"/>
 </a>
 </p>
