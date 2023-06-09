@@ -21,5 +21,5 @@ I'm a student at University of Sumatera Utara, majoring in Information Technolog
 ### My Stats
 ---
 <a href="https://github.com/saidmazaya">
-  <img height="190em" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmazaya&layout=compact&langs_count=10&theme=radical&size_weight=0.5&count_weight=0.5" />
+  <img height="190em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidmazaya&layout=compact&langs_count=10&theme=radical&size_weight=0.5&count_weight=0.5" />
 </a>
