@@ -3,7 +3,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 I'm a student at University of Sumatera Utara, majoring in Information Technology.
 
-* 🌍  I'm based in Indonesia
+* 🌍  I'm based in Medan, Indonesia
 
 ---
 
